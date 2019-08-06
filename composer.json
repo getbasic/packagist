@@ -1,5 +1,5 @@
 {
-    "name": "call/packagist",
+    "name": "basic/packagist",
     "description": "packagist",
     "minimum-stability": "dev",
     "license": "MIT",
